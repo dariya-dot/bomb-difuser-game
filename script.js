@@ -1,3 +1,4 @@
+
 let timerElemet=document.getElementById("countdown")
 let wire1Element=document.getElementById("wire1")
 let wire2Element=document.getElementById("wire2")
@@ -42,7 +43,7 @@ wire3Element.addEventListener('click',function(){
     wire1Element.style.width="80%";
     wire2Element.style.width="80%";
     wire4Element.style.width="80%";
-     iswire2cuted=false
+    iswire2cuted=false
     console.log("clicked")
 })
 wire4Element.addEventListener('click',function(){
