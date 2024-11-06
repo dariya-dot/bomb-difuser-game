@@ -26,7 +26,7 @@ wire1Element.addEventListener('click',function(){
     wire2Element.style.width="80%";
     wire3Element.style.width="80%";
     wire4Element.style.width="80%";
- iswire2cuted=false
+    iswire2cuted=false
     console.log("clicked")
 })
 wire2Element.addEventListener('click', function green(){
@@ -42,7 +42,7 @@ wire3Element.addEventListener('click',function(){
     wire1Element.style.width="80%";
     wire2Element.style.width="80%";
     wire4Element.style.width="80%";
- iswire2cuted=false
+     iswire2cuted=false
     console.log("clicked")
 })
 wire4Element.addEventListener('click',function(){
@@ -50,7 +50,7 @@ wire4Element.addEventListener('click',function(){
     wire1Element.style.width="80%";
     wire2Element.style.width="80%";
     wire3Element.style.width="80%";
- iswire2cuted=false
+    iswire2cuted=false
     console.log("clicked")
 })
 
